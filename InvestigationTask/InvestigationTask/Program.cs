@@ -60,6 +60,7 @@ namespace InvestigationTask
             }
 
             Console.WriteLine("\nCongratulations =) You've completed the exercise");
+            
             Console.ReadLine();
         }
 
